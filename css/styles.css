@@ -57,13 +57,22 @@ body {
     font-family: 'Raleway';
 }
 
-.logo-web-studio {
+.logo-web {
     letter-spacing: 0.03em;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.1;
     color: var(--logo-web-color);
+}
+
+.logo-studio {
+letter-spacing: 0.03em;
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.1;
+color: var(--logo-studio-color);
 }
 
 
@@ -144,7 +153,6 @@ body {
 
 .features-title {
     letter-spacing: 0.03em;
-    font-size: 36px;
     font-weight: 700;
     line-height: 1.14;
     text-transform: uppercase;

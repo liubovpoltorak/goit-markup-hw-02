@@ -155,6 +155,7 @@ color: var(--logo-studio-color);
     letter-spacing: 0.03em;
     font-weight: 700;
     line-height: 1.14;
+    font-size: 14px;
     text-transform: uppercase;
     color: var(--title-text-color);
 }
